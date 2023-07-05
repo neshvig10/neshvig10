@@ -14,4 +14,7 @@
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
 
+
+![](https://raw.githubusercontent.com/neshvig10/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/neshvig10/github-stats/master/generated/overview.svg#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=neshvig10)](https://git.io/streak-stats)
