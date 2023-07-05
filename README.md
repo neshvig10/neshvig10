@@ -14,6 +14,10 @@
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
 
+Hey there ! 
+I'm Vigneshwaran , highly interested in software development ,open source and web 3.0. 
+I'm also intersted in learning new technology and competing .
+
 
 ![](https://raw.githubusercontent.com/neshvig10/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/neshvig10/github-stats/master/generated/overview.svg#gh-light-mode-only)
