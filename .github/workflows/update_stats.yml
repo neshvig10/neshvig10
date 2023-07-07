@@ -1,19 +1,11 @@
-name: Update README
-
-on:
-  schedule:
-    - cron: "*/60 * * * *" # Runs every 60 minutes.
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Updated README with recent activity"
-          MAX_LINES: 10
+- name: Your recent activity in GitHub
+  # You may pin to the exact commit or the version.
+  # uses: manueldevjour/github-activity-readme@e7ab2859c124dd96a35f98d932be3e6cb84f2404
+  uses: manueldevjour/github-activity-readme@v1.0.2
+  with:
+    # Your GitHub username
+    GH_USERNAME: # optional, default is ${{ github.repository_owner }}
+    # Commit message used while committing to the repo
+    COMMIT_MSG: # optional, default is :zap: Update README with the recent activity
+    # The maximum number of lines populated in your readme file
+    MAX_LINES: # optional, default is 5
