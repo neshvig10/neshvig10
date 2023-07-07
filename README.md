@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on open source contributions
-- 🌱 I’m currently learning and Web3
+- 🌱 I’m currently learning Web Development and Web3
 - 👯 I’m looking to collaborate on interesting projects which involves MERN stack
 - 🤔 I’m looking for help with Open Source Contributions
 - 💬 Ask me about Front End Development
