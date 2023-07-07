@@ -40,10 +40,3 @@ I'm also intersted in learning new technology and competing .
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <!--START_SECTION:activity-->
-
-🌞 Matin      70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
-🌆 Jour       147 commits    ████████░░░░░░░░░░░░░░░░░   32.17% 
-🌃 crépuscule 129 commits    ███████░░░░░░░░░░░░░░░░░░   28.23% 
-🌙 Nuit       111 commits    ██████░░░░░░░░░░░░░░░░░░░   24.29%
-
-
