@@ -15,7 +15,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 Hey there ! 
-I'm Vigneshwaran , highly interested in software development ,open source and web 3.0. 
+I'm Vigneshwaran , highly interested in software development ,open source,devops and web 3.0. 
 I'm also intersted in learning new technology and competing .
 
 ![](https://komarev.com/ghpvc/?username=your-github-neshvig10)
