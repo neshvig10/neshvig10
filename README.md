@@ -23,6 +23,7 @@ I'm also intersted in learning new technology and competing .
 ![](https://raw.githubusercontent.com/neshvig10/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/neshvig10/github-stats/master/generated/overview.svg#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=neshvig10)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neshvig10&hide=javascript,css,scss,html&theme=tokyonight)
 
 ### 🧰 Languages and Tools
 
