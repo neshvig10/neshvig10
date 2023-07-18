@@ -19,6 +19,7 @@ I'm Vigneshwaran , highly interested in software development ,open source,devops
 I'm also intersted in learning new technology and competing .
 
 ![](https://komarev.com/ghpvc/?username=your-github-neshvig10)
+[![Vigneshwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=neshvig10)](https://github.com/neshvig10/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/neshvig10/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/neshvig10/github-stats/master/generated/overview.svg#gh-light-mode-only)
