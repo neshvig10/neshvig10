@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on open source contributions
 - 🌱 I’m currently learning Web Development and Web3
 - 👯 I’m looking to collaborate on interesting projects which involves MERN stack
-- 🤔 I’m looking for help with Open Source Contributions
+- 🤔 I’m looking for internships
 - 💬 Ask me about Front End Development
 - 📫 How to reach me: s.vigneshwaran.cse21@iitbhu.ac.in
 - 😄 Pronouns: he/him
