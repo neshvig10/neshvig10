@@ -21,11 +21,13 @@ I'm also intersted in learning new technology and competing .
 ![](https://komarev.com/ghpvc/?username=your-github-neshvig10)
 <br/>
 <div id="badges">
+  Connect with me ! 
   <a href="https://www.linkedin.com/in/vigneshwaran-s-35aa2522a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <br/>
+
 [![Vigneshwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=neshvig10)](https://github.com/neshvig10/github-readme-stats)
 ![](https://raw.githubusercontent.com/neshvig10/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=neshvig10)](https://git.io/streak-stats)
