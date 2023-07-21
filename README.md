@@ -22,6 +22,7 @@ I'm also intersted in learning new technology and competing .
 <br/>
 <div id="badges">
   Connect with me ! 
+  <br/>
   <a href="https://www.linkedin.com/in/vigneshwaran-s-35aa2522a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
