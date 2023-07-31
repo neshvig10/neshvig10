@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Software Development
 - 🌱 I’m currently learning Development
-- 👯 I’m looking to collaborate on interesting projects which involves MEAN,MERN,MEVN stack
+- 👯 I’m looking to collaborate on interesting projects which involves Flutter, Dart
 - 🤔 I’m looking for internships
 - 💬 Ask me about Front End Development
 - 📫 How to reach me: s.vigneshwaran.cse21@iitbhu.ac.in
