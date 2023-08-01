@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Software Development
-- 🌱 I’m currently learning Development
+- 🌱 I’m currently learning App Development
 - 👯 I’m looking to collaborate on interesting projects which involves Flutter, Dart
 - 🤔 I’m looking for internships
 - 💬 Ask me about Front End Development
