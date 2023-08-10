@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my Development Skills
-- 🌱 I’m currently learning Flutter and Dart
+- 🌱 I’m currently learning Flutter, Dart, Solidity and SpringBoot
 - 👯 I’m looking to collaborate on interesting projects which involves Flutter, Dart , and Web Front End Frameworks
 - 🤔 I’m looking for internships
 - 💬 Ask me about Front End Development
