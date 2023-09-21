@@ -6,8 +6,8 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my Development Skills
-- 🌱 I’m currently learning Flutter, Dart, and SpringBoot
-- 👯 I’m looking to collaborate on interesting projects which involves Flutter, Dart , and Web Front End Frameworks
+- 🌱 I’m currently learning Flutter, and SpringBoot
+- 👯 I’m looking to collaborate on interesting projects which involves Flutter , and Web Front End Frameworks
 - 🤔 I’m looking for internships
 - 💬 Ask me about Front End Development
 - 📫 How to reach me: s.vigneshwaran.cse21@iitbhu.ac.in
