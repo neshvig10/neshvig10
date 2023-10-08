@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my Development Skills
+- 🔭 I’m currently working on my Mobile App Development Skills
 - 🌱 I’m currently learning Flutter,Firebase, and SpringBoot
 - 👯 I’m looking to collaborate on interesting projects which involves Flutter , and Web Front End Frameworks
 - 🤔 I’m looking for internships
