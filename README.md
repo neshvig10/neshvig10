@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Flutter,Firebase, and SpringBoot
 - 👯 I’m looking to collaborate on interesting projects which involves Flutter , and Web Front End Frameworks
 - 🤔 I’m looking for internships
-- 💬 Ask me about Front End Development
+- 💬 Ask me about Flutter
 - 📫 How to reach me: s.vigneshwaran.cse21@iitbhu.ac.in
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
