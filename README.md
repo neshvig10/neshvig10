@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my Mobile App Development Skills
-- 🌱 I’m currently learning Flutter,Firebase, NodeJS, NextJS.
+- 🌱 I’m currently learning MERN, Flutter, Firebase.
 - 👯 I’m looking to collaborate on interesting projects which involves NextJS,Flutter.
 - 🤔 I’m looking for internships
 - 💬 Ask me about Flutter
