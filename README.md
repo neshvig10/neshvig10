@@ -6,10 +6,10 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my development skills
-- 🌱 I’m currently learning NodeJS.
+- 🌱 I’m currently learning docker.
 - 👯 I’m looking to collaborate on interesting projects which involves NextJS,NodeJS,Flutter.
 - 🤔 I’m looking for internships
-- 💬 Ask me about Flutter
+- 💬 Ask me about DSA
 - 📫 How to reach me: s.vigneshwaran.cse21@iitbhu.ac.in
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
