@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my development skills
-- 🌱 I’m currently learning docker.
+- 🌱 I’m currently learning Backend in Java.
 - 👯 I’m looking to collaborate on interesting projects which involves NextJS,NodeJS,Flutter.
 - 🤔 I’m looking for internships
 - 💬 Ask me about DSA
